@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" filepath="$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consumer-order/cloud-consumer-order.iml" filepath="$PROJECT_DIR$/cloud-consumer-order/cloud-consumer-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-euraka-7002/cloud-euraka-7002.iml" filepath="$PROJECT_DIR$/cloud-euraka-7002/cloud-euraka-7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-7001/cloud-eureka-7001.iml" filepath="$PROJECT_DIR$/cloud-eureka-7001/cloud-eureka-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-provider-payment_8001/cloudproviderpayment_8001.iml" filepath="$PROJECT_DIR$/cloud-provider-payment_8001/cloudproviderpayment_8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-provider-payment_8002/cloudproviderpayment_8002.iml" filepath="$PROJECT_DIR$/cloud-provider-payment_8002/cloudproviderpayment_8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloudtest.iml" filepath="$PROJECT_DIR$/.idea/springcloudtest.iml" />
+    </modules>
+  </component>
+</project>

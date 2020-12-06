@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-api-commons" />
+        <module name="cloud-consumer-order" />
+        <module name="cloud-euraka-7002" />
+        <module name="cloud-eureka-7001" />
+        <module name="cloudproviderpayment_8001" />
+        <module name="cloudproviderpayment_8002" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-api-commons" target="1.7" />
+      <module name="cloud-consumer-order" target="1.7" />
+      <module name="cloud-euraka-7002" target="1.7" />
+      <module name="cloud-eureka-7001" target="1.7" />
+      <module name="cloud-provider-payment_8001" target="1.7" />
+      <module name="cloudproviderpayment8002" target="1.7" />
+      <module name="cloudproviderpayment_8001" target="1.7" />
+      <module name="cloudproviderpayment_8002" target="1.7" />
+      <module name="springcloudtest" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

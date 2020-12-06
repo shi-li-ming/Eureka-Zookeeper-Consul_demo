@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cloud-euraka-7002:war">
+    <output-path>$PROJECT_DIR$/cloud-euraka-7002/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>cloud-euraka-7002</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="cloud-euraka-7002.war">
+      <element id="artifact" artifact-name="cloud-euraka-7002:war exploded" />
+    </root>
+  </artifact>
+</component>
