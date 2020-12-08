@@ -18028,8 +18028,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cloud-provider-payment_8001/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+            <state relative-caret-position="396">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -18158,9 +18158,9 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-322" />
-    <option name="y" value="80" />
-    <option name="width" value="1700" />
+    <option name="x" value="8" />
+    <option name="y" value="63" />
+    <option name="width" value="1943" />
     <option name="height" value="1069" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -18191,7 +18191,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607263179617" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607263857468" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8.0_121" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -18310,12 +18310,12 @@
       <workItem from="1607179980446" duration="908000" />
       <workItem from="1607181064894" duration="892000" />
       <workItem from="1607182103323" duration="2656000" />
-      <workItem from="1607230317796" duration="10886000" />
+      <workItem from="1607230317796" duration="11492000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76232000" />
+    <option name="totallyTimeSpent" value="76838000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -18327,10 +18327,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-257" y="64" width="1360" height="855" extended-state="0" />
+    <frame x="7" y="51" width="1554" height="855" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49484536" visible="true" weight="0.29493088" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49484536" visible="true" weight="0.25668448" />
       <window_info id="Structure" order="1" sideWeight="0.50211865" side_tool="true" weight="0.20170015" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -18727,8 +18727,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud-provider-payment_8001/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        <state relative-caret-position="396">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
         </state>
       </provider>
     </entry>
