@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cloudconsul_consumerorder:war">
+    <output-path>$PROJECT_DIR$/cloud-consul_consumer-order/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>cloudconsul_consumerorder</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="cloud-consul_consumer-order.war">
+      <element id="artifact" artifact-name="cloudconsul_consumerorder:war exploded" />
+    </root>
+  </artifact>
+</component>

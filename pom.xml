@@ -8,13 +8,16 @@
   <artifactId>springcloud-test</artifactId>
   <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>cloud-provider-payment</module>
         <module>cloud-consumer-order</module>
         <module>cloud-api-commons</module>
         <module>cloud-euraka-7002</module>
         <module>cloud-eureka-7001</module>
       <module>cloud-provider-payment_8002</module>
         <module>cloud-provider-payment_8001</module>
+        <module>cloud-provider-payment_8004</module>
+        <module>cloud-consumerZk-order</module>
+        <module>cloud-consul_provider-payment_8005</module>
+        <module>cloud-consul_consumer-order</module>
 
 
     </modules>

@@ -10,8 +10,12 @@
         <module name="cloud-consumer-order" />
         <module name="cloud-euraka-7002" />
         <module name="cloud-eureka-7001" />
+        <module name="cloudconsul_consumerorder" />
+        <module name="cloudconsul_providerpayment_8005" />
+        <module name="cloudconsumerZkorder" />
         <module name="cloudproviderpayment_8001" />
         <module name="cloudproviderpayment_8002" />
+        <module name="cloudproviderpayment_8004" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,9 +24,13 @@
       <module name="cloud-euraka-7002" target="1.7" />
       <module name="cloud-eureka-7001" target="1.7" />
       <module name="cloud-provider-payment_8001" target="1.7" />
+      <module name="cloudconsul_consumerorder" target="1.7" />
+      <module name="cloudconsul_providerpayment_8005" target="1.7" />
+      <module name="cloudconsumerZkorder" target="1.7" />
       <module name="cloudproviderpayment8002" target="1.7" />
       <module name="cloudproviderpayment_8001" target="1.7" />
       <module name="cloudproviderpayment_8002" target="1.7" />
+      <module name="cloudproviderpayment_8004" target="1.7" />
       <module name="springcloudtest" target="1.8" />
     </bytecodeTargetLevel>
   </component>

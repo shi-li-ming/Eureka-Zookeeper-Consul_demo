@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/cloud-consul_consumer-order" />
+    <file type="web" url="file://$PROJECT_DIR$/cloud-consul_provider-payment_8005" />
     <file type="web" url="file://$PROJECT_DIR$/cloud-consumer-order" />
+    <file type="web" url="file://$PROJECT_DIR$/cloud-consumerZk-order" />
     <file type="web" url="file://$PROJECT_DIR$/cloud-euraka-7002" />
     <file type="web" url="file://$PROJECT_DIR$/cloud-eureka-7001" />
     <file type="web" url="file://$PROJECT_DIR$/cloud-provider-payment-8002" />
     <file type="web" url="file://$PROJECT_DIR$/cloud-provider-payment_8001" />
     <file type="web" url="file://$PROJECT_DIR$/cloud-provider-payment_8002" />
+    <file type="web" url="file://$PROJECT_DIR$/cloud-provider-payment_8004" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />

@@ -3,11 +3,14 @@
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-api-commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consul_consumer-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consul_provider-payment_8005" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-consumer-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumerZk-order" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-euraka-7002" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-eureka-7001" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/cloud-provider-payment" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-provider-payment_8001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-provider-payment_8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-provider-payment_8004" charset="UTF-8" />
   </component>
 </project>

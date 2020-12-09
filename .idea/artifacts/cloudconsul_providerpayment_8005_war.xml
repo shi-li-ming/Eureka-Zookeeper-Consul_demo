@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cloudconsul_providerpayment_8005:war">
+    <output-path>$PROJECT_DIR$/cloud-consul_provider-payment_8005/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>cloudconsul_providerpayment_8005</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="cloud-consul_provider-payment_8005.war">
+      <element id="artifact" artifact-name="cloudconsul_providerpayment_8005:war exploded" />
+    </root>
+  </artifact>
+</component>

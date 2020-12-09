@@ -6,8 +6,12 @@
       <module fileurl="file://$PROJECT_DIR$/cloud-consumer-order/cloud-consumer-order.iml" filepath="$PROJECT_DIR$/cloud-consumer-order/cloud-consumer-order.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-euraka-7002/cloud-euraka-7002.iml" filepath="$PROJECT_DIR$/cloud-euraka-7002/cloud-euraka-7002.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-eureka-7001/cloud-eureka-7001.iml" filepath="$PROJECT_DIR$/cloud-eureka-7001/cloud-eureka-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consul_consumer-order/cloudconsul_consumerorder.iml" filepath="$PROJECT_DIR$/cloud-consul_consumer-order/cloudconsul_consumerorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consul_provider-payment_8005/cloudconsul_providerpayment_8005.iml" filepath="$PROJECT_DIR$/cloud-consul_provider-payment_8005/cloudconsul_providerpayment_8005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consumerZk-order/cloudconsumerZkorder.iml" filepath="$PROJECT_DIR$/cloud-consumerZk-order/cloudconsumerZkorder.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-provider-payment_8001/cloudproviderpayment_8001.iml" filepath="$PROJECT_DIR$/cloud-provider-payment_8001/cloudproviderpayment_8001.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-provider-payment_8002/cloudproviderpayment_8002.iml" filepath="$PROJECT_DIR$/cloud-provider-payment_8002/cloudproviderpayment_8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-provider-payment_8004/cloudproviderpayment_8004.iml" filepath="$PROJECT_DIR$/cloud-provider-payment_8004/cloudproviderpayment_8004.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloudtest.iml" filepath="$PROJECT_DIR$/.idea/springcloudtest.iml" />
     </modules>
   </component>
